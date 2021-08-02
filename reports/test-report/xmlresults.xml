@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="42.57">
+ <testsuite name="GET IN TOUCH PAGE" timestamp="2021-08-02T11:31:01" hostname="localhost" time="10.832" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="GET IN TOUCH PAGE" name="Get in touch with the author without populating the form" time="0.799" />
+  <testcase classname="GET IN TOUCH PAGE" name="Get in touch with the author" time="4.232" />
+ </testsuite>
+ <testsuite name="HOME PAGE" timestamp="2021-08-02T11:31:12" hostname="localhost" time="31.738" errors="0" tests="10" skipped="0" disabled="0" failures="0">
+  <testcase classname="HOME PAGE" name="Should verify QAMIND logo &amp; tagline" time="0.221" />
+  <testcase classname="HOME PAGE" name="Count the number of protractor related blogs" time="3.91" />
+  <testcase classname="HOME PAGE" name="Verify that &apos;Using Protractor for smooth E2E automation&apos; blog appears when searching for Protractor blogs" time="2.365" />
+  <testcase classname="HOME PAGE" name="Verify no search results for random keyword" time="5.462" />
+  <testcase classname="HOME PAGE" name="Count the number of recent posts" time="0.178" />
+  <testcase classname="HOME PAGE" name="Join the newsletter" time="4.325" />
+  <testcase classname="HOME PAGE" name="Open blogs by category and verify header" time="2.55" />
+  <testcase classname="HOME PAGE" name="Open blogs by category and verify header" time="2.156" />
+  <testcase classname="HOME PAGE" name="Open blogs by category and verify header" time="2.016" />
+  <testcase classname="HOME PAGE" name="Verify LinkedIn profile of the author of QAMIND" time="0.091" />
+ </testsuite>
+</testsuites>
