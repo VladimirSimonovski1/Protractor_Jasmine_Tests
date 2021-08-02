@@ -30,5 +30,5 @@ POM(Page-Object Model)
 
 ## How to run the tests:
 
-1. Open terminal & enter command: **npm run test**
-3. Expect an HTML test report to automatically open in browser after test execution. Location to the report: **reports/test-report/QAMINDTestReport.html**
+1. Open terminal & enter command: **npm run test** (it will format the code, run the tests, create and open a HTML report from the test execution)
+2. Expect an HTML test report to automatically open in browser after test execution. Location to the report: **reports/test-report/QAMINDTestReport.html**
